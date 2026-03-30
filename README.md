@@ -5,4 +5,4 @@ Idea del proyecto: https://roadmap.sh/projects/basic-html-website
 
 URL de la solución: https://kevindominguez-ice.github.io/Basic-HTML-Web-projecto-roadmap.sh/
 
-Pueden ir a votar para ayudarme a completar la tarea: 
+Pueden ir a votar para ayudarme a completar la tarea: https://roadmap.sh/projects/basic-html-website/solutions?u=699de814b893a8adaa4c7541
